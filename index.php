@@ -85,16 +85,54 @@
            echo "<br>";
            echo "The assigned value to newvar is $newvar";
 
-           //Typw - 4
+           //Type - 4
            $newvar /= $var2;
            echo "<br>";
            echo "The assigned value to newvar is $newvar";
 
            //3. Comparison Operator
 
+           //Type - 1
+
            echo "<br>";
            echo "The value of 1==4 is";
            echo var_dump(1==4);
+
+           //Type - 2
+
+           echo "<br>";
+           echo "The value of 1<=5 is";
+           echo var_dump(1<=5);
+           
+           //Type - 3 
+           
+           echo "<br>";
+           echo "The value of 1>=5 is";
+           echo var_dump(1>=5);
+
+           //4.Increment Operator
+
+           echo "<br>";
+           echo $var1++;
+           
+           echo "<br>";
+           echo $var1--;
+
+           echo "<br>";
+           echo ++$var1 ;
+           
+           echo "<br>";
+           echo --$var1 ;
+
+           //5. Logical Operator
+
+           echo"<br>";
+           $newvar = (true AND true);
+           echo var_dump($newvar);
+           
+           echo"<br>";
+           $newvar = (true XOR true);
+           echo var_dump($newvar);
 
 
         ?>
