@@ -136,6 +136,36 @@
 
 
         ?>
+
+        <?php
+        define ('PI',3.14);
+
+        //Data Types in PHP
+
+        // 1. String
+        // 2. Integer
+        // 3. Float
+        // 4. Bool
+        // 5. Array
+        // 6. Object
+
+        echo "<br> DATA types in PHP";
+        $myvar = "This is a string";
+        echo "<br>";
+        echo var_dump($myvar);
+
+        $myvar = 87.1;
+        echo "<br>";
+        echo var_dump($myvar);
+
+        $myvar = false;
+        echo "<br>";
+        echo var_dump($myvar);
+        
+        //Constant 
+        echo"<br>";
+        echo PI;
+        ?>
     </div>
 </body>
 </html> 
