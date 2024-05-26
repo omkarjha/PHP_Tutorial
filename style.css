@@ -1,0 +1,74 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+.container{
+    max-width: 80%;
+    /* background-color: rgb(130, 224, 255); */
+    padding: 1rem;
+    margin: auto;
+}
+
+.container h1,p{
+    text-align: center;
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+    color: wheat;
+        
+}
+.container h1{
+    font-size: 40px;
+    padding: 0.5rem;
+}
+p{
+    font-size: 15px;
+    font-family: "Josefin Sans", sans-serif;
+    
+}
+input , textarea {
+    border: 2px solid black;
+    border-radius: 4px;
+    outline: none;
+    font-size: 12px;
+    width: 80%;
+    margin: 11px 0px;
+    padding: 7px;
+
+}
+
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 1rem;
+}
+.btn{
+    color:black;
+    background-color: rgb(239, 175, 175);
+    padding: 0.5rem;
+    
+}
+
+body {
+    background: url(bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover ;
+    background-color:wheat;
+    height: 100vh;
+    /* /* width: 100%;
+    position: relative;
+    z-index: -1; */
+    
+
+}
+
+.AfterSubmit{
+    font-size: 20px;
+    color: pink;
+    margin: 2rem;
+}
