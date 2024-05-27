@@ -9,3 +9,6 @@ Here are some snapshots when the server was turned on
 
 ### Landing Page
 <img src = "https://github.com/omkarjha/PHP_Tutorial/blob/main/Assets/Landing%20Page.jpg" width=600 height=300> 
+
+### Test Details
+<img src = "https://github.com/omkarjha/PHP_Tutorial/blob/main/Assets/Details.jpg" width = 600 height = 300>
