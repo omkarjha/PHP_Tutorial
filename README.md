@@ -17,7 +17,7 @@ Here are some snapshots when the server was turned on
 <img src = "https://github.com/omkarjha/PHP_Tutorial/blob/main/Assets/Submission.jpg" width = 600 height = 200>
 
 ### Data Stored in SQL server
-<img src = "https://github.com/omkarjha/PHP_Tutorial/blob/main/Assets/Data%20Stored.jpg" width = 600 height = 300>
+<img src = "https://github.com/omkarjha/PHP_Tutorial/blob/main/Assets/Data%20Stored.jpg" width = 200 height = 100>
 
 ### SQL Structure
 <img src = "https://github.com/omkarjha/PHP_Tutorial/blob/main/Assets/SQL%20Structure.jpg" width = 400 height = 100>
