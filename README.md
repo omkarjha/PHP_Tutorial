@@ -14,4 +14,4 @@ Here are some snapshots when the server was turned on
 <img src = "https://github.com/omkarjha/PHP_Tutorial/blob/main/Assets/Details.jpg" width = 600 height = 300>
 
 ### Data Submission
-<img src = "https://github.com/omkarjha/PHP_Tutorial/blob/main/Assets/Submission.jpg" width = 600 height = 300>
+<img src = "https://github.com/omkarjha/PHP_Tutorial/blob/main/Assets/Submission.jpg" width = 600 height = 200>
