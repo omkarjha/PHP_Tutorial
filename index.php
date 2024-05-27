@@ -59,7 +59,7 @@ if (isset($_POST['name'])) {
 <body>
     <div class="container">
         <h1>Welcome to Techno International New Town</h1>
-        <h1>Jakarta Trip Form</h1>
+        <h1>Admission Form</h1>
         <p>Enter your details and submit the form to confirm your availability</p>
 
         <?php
