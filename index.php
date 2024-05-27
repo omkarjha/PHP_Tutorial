@@ -64,7 +64,7 @@ if (isset($_POST['name'])) {
 
         <?php
         if ($insert == true) {
-            echo "<p class='AfterSubmit'>Thank you for submitting the form. We are happy to see you joining for the Jakarta Trip</p>";
+            echo "<p class='AfterSubmit'>Thank you for submitting the form. We are happy to see you joining our institution</p>";
         }
         ?>
 
